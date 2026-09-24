@@ -38,4 +38,5 @@ Thumbs.db
 # ================= SECRETS =================
 Backend/serviceAccountKey.json
 
-/src/firebase.js
+Frontend/src/Firebase.js
+Backend/test_api.py
